@@ -1,0 +1,13 @@
+Package: PersonaRWH
+Title: PersonaRWH: prioritizing personalized candidate driver genes in cancer with an improved hypergraph random walk algorithm
+Version: 1.0.0
+Date: 2022-05-10
+Author: Naiqian Zhang <nqzhang@email.sdu.edu.cn> Chengye Wang <w18669341630@163.com> Junhan Shi <jshmshijh@163.com>
+Maintainer: Junhan Shi <jshmshijh@163.com>
+Description: The code for PersonaRWH
+Depends: R (>= 4.0.1), igraph
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
