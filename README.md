@@ -3,7 +3,7 @@
 ## Install
 ```r
 # Install necessary build tool
-install.packages(devtools)
+install.packages("devtools")
 ```
 #### Install PersonaRWH
 
