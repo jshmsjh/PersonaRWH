@@ -3,7 +3,6 @@ Title: PersonaRWH: prioritizing personalized candidate driver genes in cancer wi
 Version: 1.0.0
 Date: 2022-05-10
 Author: Naiqian Zhang <nqzhang@email.sdu.edu.cn> Yuxuan Pang <christal_pang@163.com> Chengye Wang <w18669341630@163.com> Junhan Shi <jshmshijh@163.com>
-Maintainer: Junhan Shi <jshmshijh@163.com>
 Description: The code for PersonaRWH
 Depends: R (>= 4.0.1), igraph
 License: MIT + file LICENSE
