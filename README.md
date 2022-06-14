@@ -24,7 +24,7 @@ library(PersonaRWH)
 ```r
 ### the example mutation and expression data is a Lung Squamous Cell Carcinoma Dataset from TCGA
 ### the example network data is HumanNet
-### We will show how to get example DriverRWH Results
+### We will show how to get example PersonaRWH Results
 library(PersonaRWH)
 
 # load mutation and expression data
